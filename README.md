@@ -8,7 +8,6 @@ Dedicated software engineer with a strong inclination towards data analytics, ad
 
 * 🌍  I'm based in Ain Anoub, Lebanon
 * ✉️  You can contact me at [Naghamfakheraldine2002@gmail.com](mailto:Naghamfakheraldine2002@gmail.com)
-* 🚀  I'm currently working on [ResumeStudio](http://github.com/NaghamFakheraldine/Resume_Studio.git)
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
