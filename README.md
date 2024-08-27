@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ===========================================================================================================================================
 
-Software Engineer & Data Analyst
---------------------------------
+AI Engineer
+-------------
 
-Dedicated software engineer with a strong inclination towards data analytics, adept at crafting robust solutions across diverse programming languages and technologies. Excels in adapting to emerging trends, collaborating within cross-functional teams, and ensuring timely project deliveries within budget constraints, driven by a deep passion for data insights and analytics.
+Dedicated AI Engineer with a strong inclination towards data analytics, adept at crafting robust solutions across diverse programming languages and technologies. Excels in adapting to emerging trends, collaborating within cross-functional teams, and ensuring timely project deliveries within budget constraints, driven by a deep passion for data insights and analytics.
 
 * 🌍  I'm based in Ain Anoub, Lebanon
 * ✉️  You can contact me at [Naghamfakheraldine2002@gmail.com](mailto:Naghamfakheraldine2002@gmail.com)
