@@ -1,3 +1,5 @@
+### Nagham Fakheraldine 
+
 Dedicated AI Engineer with a strong inclination towards data analytics, adept at crafting robust solutions across diverse programming languages and technologies. Excels in adapting to emerging trends, collaborating within cross-functional teams, and ensuring timely project deliveries within budget constraints, driven by a deep passion for data insights and analytics.
 
 * 🌍  I'm based in Ain Anoub, Lebanon
